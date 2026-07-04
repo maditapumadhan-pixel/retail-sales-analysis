@@ -79,4 +79,4 @@ sqlite3 data/retail_sales.db
 ```
 
 ## Author
-Madhan Simha M — [GitHub](https://github.com/madhansimha) · [LinkedIn](https://linkedin.com/in/madhansimha)
+Madhan Simha M — [GitHub]([https://github.com/madhansimha](https://github.com/maditapumadhan-pixel)) · [LinkedIn](www.linkedin.com/in/maditapu-madhan-b62a0841b)
